@@ -1,0 +1,401 @@
+name,length,width,texture,edge,arrangement,shape
+seetha,6,2.5,smooth,straight,alternate,elliptic
+seetha,6,2.6,smooth,straight,alternate,elliptic
+seetha,5.3,2.4,smooth,straight,alternate,elliptic
+seetha,5.2,2.3,smooth,straight,alternate,elliptic
+seetha,3.7,2,smooth,straight,alternate,elliptic
+seetha,4.9,1.9,smooth,straight,alternate,elliptic
+seetha,5.8,2.1,smooth,straight,alternate,elliptic
+seetha,6.7,2.8,smooth,straight,alternate,elliptic
+seetha,3.8,1.8,smooth,straight,alternate,elliptic
+seetha,4.5,2.1,smooth,straight,alternate,elliptic
+seetha,6.3,2.9,smooth,straight,alternate,elliptic
+seetha,3.4,1.5,smooth,straight,alternate,elliptic
+seetha,3,1.7,smooth,straight,alternate,elliptic
+seetha,5.7,2.5,smooth,straight,alternate,elliptic
+seetha,5.3,2.4,smooth,straight,alternate,elliptic
+seetha,4.6,2.3,smooth,straight,alternate,elliptic
+seetha,6.3,2.9,smooth,straight,alternate,elliptic
+seetha,5.9,3,smooth,straight,alternate,elliptic
+seetha,5.4,2.2,smooth,straight,alternate,elliptic
+seetha,2.4,1,smooth,straight,alternate,elliptic
+kaju,13.5,5.4,leathery,askew,spiral,obovate
+kaju,14.6,5.6,leathery,askew,spiral,obovate
+kaju,13,6.2,leathery,askew,spiral,obovate
+kaju,14.4,5.5,leathery,askew,spiral,obovate
+kaju,15.7,6.5,leathery,askew,spiral,obovate
+kaju,11.5,5.4,leathery,askew,spiral,obovate
+kaju,8,3.5,leathery,askew,spiral,obovate
+kaju,8.2,3.5,leathery,askew,spiral,obovate
+kaju,14.1,5.5,leathery,askew,spiral,obovate
+kaju,14.1,5.7,leathery,askew,spiral,obovate
+kaju,10,5.3,leathery,askew,spiral,obovate
+kaju,8,3.7,leathery,askew,spiral,obovate
+kaju,6,2.7,leathery,askew,spiral,obovate
+kaju,4,2,leathery,askew,spiral,obovate
+kaju,7.7,3.2,leathery,askew,spiral,obovate
+kaju,19.5,8.5,leathery,askew,spiral,obovate
+kaju,17.2,8.5,leathery,askew,spiral,obovate
+kaju,23.6,8.2,leathery,askew,spiral,obovate
+kaju,21.2,9.2,leathery,askew,spiral,obovate
+kaju,12,4.8,leathery,askew,spiral,obovate
+elachi,14.8,2.5,glossy,jagged,alternate,lanceolate
+elachi,12.9,2.2,glossy,jagged,alternate,lanceolate
+elachi,17.3,6.1,glossy,jagged,alternate,lanceolate
+elachi,17.5,4.2,glossy,jagged,alternate,lanceolate
+elachi,18.5,4,glossy,jagged,alternate,lanceolate
+elachi,18.2,4.6,glossy,jagged,alternate,lanceolate
+elachi,13.5,2,glossy,jagged,alternate,lanceolate
+elachi,13.3,2.1,glossy,jagged,alternate,lanceolate
+elachi,17.5,3.5,glossy,jagged,alternate,lanceolate
+elachi,16.3,3.1,glossy,jagged,alternate,lanceolate
+elachi,16.8,3.3,glossy,jagged,alternate,lanceolate
+elachi,21,4.2,glossy,jagged,alternate,lanceolate
+elachi,18.8,3.9,glossy,jagged,alternate,lanceolate
+elachi,13.7,5.2,glossy,jagged,alternate,lanceolate
+elachi,16.5,5.9,glossy,jagged,alternate,lanceolate
+elachi,14,6,glossy,jagged,alternate,lanceolate
+elachi,14.8,2.5,glossy,jagged,alternate,lanceolate
+elachi,17,3.6,glossy,jagged,alternate,lanceolate
+elachi,14.6,3,glossy,jagged,alternate,lanceolate
+elachi,15,3.2,glossy,jagged,alternate,lanceolate
+mouha,25.8,14.4,smooth,askew,alternate,ovate
+mouha,22.5,12.1,smooth,askew,alternate,ovate
+mouha,19.2,7.8,smooth,askew,alternate,ovate
+mouha,18,10.8,smooth,askew,alternate,ovate
+mouha,18.9,9,smooth,askew,alternate,ovate
+mouha,2.7,9.5,smooth,askew,alternate,ovate
+mouha,29.5,14,smooth,askew,alternate,ovate
+mouha,13.5,26.8,smooth,askew,alternate,ovate
+mouha,23,12.8,smooth,askew,alternate,ovate
+mouha,15.3,5.5,smooth,askew,alternate,ovate
+mouha,10.1,5.2,smooth,askew,alternate,ovate
+mouha,19.5,10.6,smooth,askew,alternate,ovate
+mouha,5,2.8,smooth,askew,alternate,ovate
+mouha,10.5,6,smooth,askew,alternate,ovate
+mouha,17,8,smooth,askew,alternate,ovate
+mouha,16.3,7.5,smooth,askew,alternate,ovate
+mouha,21,10.2,smooth,askew,alternate,ovate
+mouha,15.5,8.3,smooth,askew,alternate,ovate
+mouha,19.8,12.4,smooth,askew,alternate,ovate
+mouha,20,10,smooth,askew,alternate,ovate
+lemon,3.7,2,smooth,straight,alternate,elliptic
+lemon,2.5,1.5,smooth,straight,alternate,elliptic
+lemon,3.6,2.5,smooth,straight,alternate,elliptic
+lemon,3.7,2.8,smooth,straight,alternate,elliptic
+lemon,3.9,3.1,smooth,straight,alternate,elliptic
+lemon,2.2,1.9,smooth,straight,alternate,elliptic
+lemon,4.2,3,smooth,straight,alternate,elliptic
+lemon,3.4,2.5,smooth,straight,alternate,elliptic
+lemon,3.2,2,smooth,straight,alternate,elliptic
+lemon,3,1.5,smooth,straight,alternate,elliptic
+lemon,3.5,2.1,smooth,straight,alternate,elliptic
+lemon,2,1.1,smooth,straight,alternate,elliptic
+lemon,2,1.2,smooth,straight,alternate,elliptic
+lemon,2.2,1.5,smooth,straight,alternate,elliptic
+lemon,2.8,1.3,smooth,straight,alternate,elliptic
+lemon,3.2,1.8,smooth,straight,alternate,elliptic
+lemon,2,1.4,smooth,straight,alternate,elliptic
+lemon,2.2,1.4,smooth,straight,alternate,elliptic
+lemon,3.5,1.9,smooth,straight,alternate,elliptic
+lemon,3.9,2,smooth,straight,alternate,elliptic
+Aswaganda,5.4,3.3,velvety,askew,alternate,ovate
+Aswaganda,3.5,2.2,velvety,askew,alternate,ovate
+Aswaganda,4.3,2.2,velvety,askew,alternate,ovate
+Aswaganda,3.6,2.4,velvety,askew,alternate,ovate
+Aswaganda,2.8,1.9,velvety,askew,alternate,ovate
+Aswaganda,4.9,3.9,velvety,askew,alternate,ovate
+Aswaganda,3.6,2.4,velvety,askew,alternate,ovate
+Aswaganda,5.8,3.3,velvety,askew,alternate,ovate
+Aswaganda,6.4,3.9,velvety,askew,alternate,ovate
+Aswaganda,5.1,3,velvety,askew,alternate,ovate
+Aswaganda,2.4,1.7,velvety,askew,alternate,ovate
+Aswaganda,2.7,1.9,velvety,askew,alternate,ovate
+Aswaganda,6,3.8,velvety,askew,alternate,ovate
+Aswaganda,7.8,5,velvety,askew,alternate,ovate
+Aswaganda,5.7,3.3,velvety,askew,alternate,ovate
+Aswaganda,4.4,2.9,velvety,askew,alternate,ovate
+Aswaganda,4.8,3.1,velvety,askew,alternate,ovate
+Aswaganda,3.6,2.6,velvety,askew,alternate,ovate
+Aswaganda,4.8,2.2,velvety,askew,alternate,ovate
+Aswaganda,5,2.5,velvety,askew,alternate,ovate
+Neem,6.5,2.2,rough,jagged,alternate,lanceolate
+Neem,6,2,rough,jagged,alternate,lanceolate
+Neem,5.4,1.8,rough,jagged,alternate,lanceolate
+Neem,5.5,1.9,rough,jagged,alternate,lanceolate
+Neem,6.6,2,rough,jagged,alternate,lanceolate
+Neem,7,1.4,rough,jagged,alternate,lanceolate
+Neem,6.7,1.2,rough,jagged,alternate,lanceolate
+Neem,5.7,1.5,rough,jagged,alternate,lanceolate
+Neem,6,1.4,rough,jagged,alternate,lanceolate
+Neem,5,1,rough,jagged,alternate,lanceolate
+Neem,4.3,1,rough,jagged,alternate,lanceolate
+Neem,3.4,0.5,rough,jagged,alternate,lanceolate
+Neem,1.6,0.3,rough,jagged,alternate,lanceolate
+Neem,2.6,0.4,rough,jagged,alternate,lanceolate
+Neem,6.3,1.3,rough,jagged,alternate,lanceolate
+Neem,8.3,2.3,rough,jagged,alternate,lanceolate
+Neem,7.5,1.7,rough,jagged,alternate,lanceolate
+Neem,8.7,2,rough,jagged,alternate,lanceolate
+Neem,8.5,2.2,rough,jagged,alternate,lanceolate
+Neem,7.1,1.9,rough,jagged,alternate,lanceolate
+long,8.6,3.3,smooth,straight,alternate,elliptic
+long,7.1,2.9,smooth,straight,alternate,elliptic
+long,9.3,3.7,smooth,straight,alternate,elliptic
+long,3.4,1.4,smooth,straight,alternate,elliptic
+long,5.5,2.5,smooth,straight,alternate,elliptic
+long,5.6,2.6,smooth,straight,alternate,elliptic
+long,9.4,3.9,smooth,straight,alternate,elliptic
+long,7,3.7,smooth,straight,alternate,elliptic
+long,6.7,2.9,smooth,straight,alternate,elliptic
+long,9.2,3.9,smooth,straight,alternate,elliptic
+long,7.2,3.1,smooth,straight,alternate,elliptic
+long,5.7,2.2,smooth,straight,alternate,elliptic
+long,9.7,4.3,smooth,straight,alternate,elliptic
+long,5,2.5,smooth,straight,alternate,elliptic
+long,5.4,2.1,smooth,straight,alternate,elliptic
+long,3,1.5,smooth,straight,alternate,elliptic
+long,7,3.4,smooth,straight,alternate,elliptic
+long,8.1,3.5,smooth,straight,alternate,elliptic
+long,7.8,3.1,smooth,straight,alternate,elliptic
+long,6,2.9,smooth,straight,alternate,elliptic
+conder,3,1.8,smooth,askew,alternate,ovate
+conder,4,1.6,smooth,askew,alternate,ovate
+conder,2.9,1.2,smooth,askew,alternate,ovate
+conder,3.5,1.8,smooth,askew,alternate,ovate
+conder,4.8,2.1,smooth,askew,alternate,ovate
+conder,3.3,1.2,smooth,askew,alternate,ovate
+conder,4,1.8,smooth,askew,alternate,ovate
+conder,3.2,1.6,smooth,askew,alternate,ovate
+conder,3.2,1.8,smooth,askew,alternate,ovate
+conder,3.4,1.9,smooth,askew,alternate,ovate
+conder,3.9,1.7,smooth,askew,alternate,ovate
+conder,2.8,1.1,smooth,askew,alternate,ovate
+conder,4.1,1.8,smooth,askew,alternate,ovate
+conder,3.6,1.5,smooth,askew,alternate,ovate
+conder,3.7,1.7,smooth,askew,alternate,ovate
+conder,2.7,1,smooth,askew,alternate,ovate
+conder,3.3,1.3,smooth,askew,alternate,ovate
+conder,3.5,1.6,smooth,askew,alternate,ovate
+conder,3.8,1.8,smooth,askew,alternate,ovate
+conder,3.1,1.2,smooth,askew,alternate,ovate
+sidha payam,8.6,2.9,smooth,straight,opposite,elliptic
+sidha payam,6.6,2.3,smooth,straight,opposite,elliptic
+sidha payam,6.6,2.8,smooth,straight,opposite,elliptic
+sidha payam,7.4,2.3,smooth,straight,opposite,elliptic
+sidha payam,6.5,1.9,smooth,straight,opposite,elliptic
+sidha payam,8.6,2.4,smooth,straight,opposite,elliptic
+sidha payam,9.7,2.5,smooth,straight,opposite,elliptic
+sidha payam,7,2.3,smooth,straight,opposite,elliptic
+sidha payam,7.1,2.5,smooth,straight,opposite,elliptic
+sidha payam,9,2.6,smooth,straight,opposite,elliptic
+sidha payam,8,2.4,smooth,straight,opposite,elliptic
+sidha payam,6.9,2.1,smooth,straight,opposite,elliptic
+sidha payam,7.5,2.2,smooth,straight,opposite,elliptic
+sidha payam,8.2,2.7,smooth,straight,opposite,elliptic
+sidha payam,7.8,2.3,smooth,straight,opposite,elliptic
+sidha payam,7,2.1,smooth,straight,opposite,elliptic
+sidha payam,8.1,2.6,smooth,straight,opposite,elliptic
+sidha payam,8.7,2.8,smooth,straight,opposite,elliptic
+sidha payam,7.3,2.2,smooth,straight,opposite,elliptic
+sidha payam,8.4,2.4,smooth,straight,opposite,elliptic
+pathar chatta,7.3,5.3,waxy,jagged,opposite,obovate
+pathar chatta,5.9,4.7,waxy,jagged,opposite,obovate
+pathar chatta,8,4.2,waxy,jagged,opposite,obovate
+pathar chatta,7,3.6,waxy,jagged,opposite,obovate
+pathar chatta,10,6.8,waxy,jagged,opposite,obovate
+pathar chatta,9,6,waxy,jagged,opposite,obovate
+pathar chatta,6.3,3.4,waxy,jagged,opposite,obovate
+pathar chatta,5.6,3.3,waxy,jagged,opposite,obovate
+pathar chatta,7.4,3.6,waxy,jagged,opposite,obovate
+pathar chatta,3.5,2,waxy,jagged,opposite,obovate
+pathar chatta,8.1,4.5,waxy,jagged,opposite,obovate
+pathar chatta,6.7,3.9,waxy,jagged,opposite,obovate
+pathar chatta,7.8,5,waxy,jagged,opposite,obovate
+pathar chatta,8.3,4.8,waxy,jagged,opposite,obovate
+pathar chatta,7.2,3.7,waxy,jagged,opposite,obovate
+pathar chatta,6.5,3.2,waxy,jagged,opposite,obovate
+pathar chatta,8.5,5.2,waxy,jagged,opposite,obovate
+pathar chatta,7.9,4.3,waxy,jagged,opposite,obovate
+pathar chatta,6.8,3.8,waxy,jagged,opposite,obovate
+pathar chatta,7.6,4.6,waxy,jagged,opposite,obovate
+Tej,9,4.5,leathery,askew,alternate,lanceolate
+Tej,8.8,4.2,leathery,askew,alternate,lanceolate
+Tej,6.4,2.6,leathery,askew,alternate,lanceolate
+Tej,6.7,2.8,leathery,askew,alternate,lanceolate
+Tej,5.8,2.6,leathery,askew,alternate,lanceolate
+Tej,5.5,2.6,leathery,askew,alternate,lanceolate
+Tej,9.5,4,leathery,askew,alternate,lanceolate
+Tej,7.8,4,leathery,askew,alternate,lanceolate
+Tej,9,4,leathery,askew,alternate,lanceolate
+Tej,11,4.1,leathery,askew,alternate,lanceolate
+Tej,9.6,4.2,leathery,askew,alternate,lanceolate
+Tej,8.7,3.9,leathery,askew,alternate,lanceolate
+Tej,7.1,3.4,leathery,askew,alternate,lanceolate
+Tej,8.2,3.7,leathery,askew,alternate,lanceolate
+Tej,6.9,2.8,leathery,askew,alternate,lanceolate
+Tej,7.5,3.2,leathery,askew,alternate,lanceolate
+Tej,8.4,3.8,leathery,askew,alternate,lanceolate
+Tej,9.2,4.1,leathery,askew,alternate,lanceolate
+Tej,10.1,4.4,leathery,askew,alternate,lanceolate
+Tej,7.6,3,leathery,askew,alternate,lanceolate
+Neelamari (mitali),5.8,2,smooth,askew,alternate,ovate
+Neelamari (mitali),4.6,1.2,smooth,askew,alternate,ovate
+Neelamari (mitali),5,1.6,smooth,askew,alternate,ovate
+Neelamari (mitali),5,1.7,smooth,askew,alternate,ovate
+Neelamari (mitali),5.5,1.9,smooth,askew,alternate,ovate
+Neelamari (mitali),5.3,1.6,smooth,askew,alternate,ovate
+Neelamari (mitali),6.4,2.5,smooth,askew,alternate,ovate
+Neelamari (mitali),4.7,1.7,smooth,askew,alternate,ovate
+Neelamari (mitali),4,1.7,smooth,askew,alternate,ovate
+Neelamari (mitali),3,1.6,smooth,askew,alternate,ovate
+Neelamari (mitali),3.8,1.3,smooth,askew,alternate,ovate
+Neelamari (mitali),2.3,1.1,smooth,askew,alternate,ovate
+Neelamari (mitali),4.1,1.5,smooth,askew,alternate,ovate
+Neelamari (mitali),4.7,1.8,smooth,askew,alternate,ovate
+Neelamari (mitali),5.2,1.9,smooth,askew,alternate,ovate
+Neelamari (mitali),3.9,1.4,smooth,askew,alternate,ovate
+Neelamari (mitali),4.5,1.7,smooth,askew,alternate,ovate
+Neelamari (mitali),5,1.8,smooth,askew,alternate,ovate
+Neelamari (mitali),6.1,2.2,smooth,askew,alternate,ovate
+Neelamari (mitali),3.5,1.2,smooth,askew,alternate,ovate
+Sravanthi,4,2.2,smooth,jagged,opposite,ovate
+Sravanthi,3.7,3,smooth,jagged,opposite,ovate
+Sravanthi,5.2,3.3,smooth,jagged,opposite,ovate
+Sravanthi,5.4,4.5,smooth,jagged,opposite,ovate
+Sravanthi,4.6,3.3,smooth,jagged,opposite,ovate
+Sravanthi,3.6,3,smooth,jagged,opposite,ovate
+Sravanthi,4.2,4,smooth,jagged,opposite,ovate
+Sravanthi,3.4,3.1,smooth,jagged,opposite,ovate
+Sravanthi,4.6,4,smooth,jagged,opposite,ovate
+Sravanthi,4.7,4.2,smooth,jagged,opposite,ovate
+Sravanthi,4,3.2,smooth,jagged,opposite,ovate
+Sravanthi,2,1.1,smooth,jagged,opposite,ovate
+Sravanthi,3.5,2.2,smooth,jagged,opposite,ovate
+Sravanthi,4.3,2.8,smooth,jagged,opposite,ovate
+Sravanthi,5,3.6,smooth,jagged,opposite,ovate
+Sravanthi,3.8,2.5,smooth,jagged,opposite,ovate
+Sravanthi,4.1,3,smooth,jagged,opposite,ovate
+Sravanthi,4.5,3.2,smooth,jagged,opposite,ovate
+Sravanthi,3.9,2.8,smooth,jagged,opposite,ovate
+Sravanthi,4.2,3.1,smooth,jagged,opposite,ovate
+Anjeer,25.4,23.2,waxy,straight,alternate,palmate-lobed
+Anjeer,33.5,32,waxy,straight,alternate,palmate-lobed
+Anjeer,26.7,25.2,waxy,straight,alternate,palmate-lobed
+Anjeer,15.6,14.5,waxy,straight,alternate,palmate-lobed
+Anjeer,21.5,21.2,waxy,straight,alternate,palmate-lobed
+Anjeer,27,24.6,waxy,straight,alternate,palmate-lobed
+Anjeer,23.5,23,waxy,straight,alternate,palmate-lobed
+Anjeer,30,28,waxy,straight,alternate,palmate-lobed
+Anjeer,25,24.3,waxy,straight,alternate,palmate-lobed
+Anjeer,27.3,25,waxy,straight,alternate,palmate-lobed
+Anjeer,21,25,waxy,straight,alternate,palmate-lobed
+Anjeer,29.5,28.2,waxy,straight,alternate,palmate-lobed
+Anjeer,22.3,20.5,waxy,straight,alternate,palmate-lobed
+Anjeer,24.8,23.7,waxy,straight,alternate,palmate-lobed
+Anjeer,28,26.5,waxy,straight,alternate,palmate-lobed
+Anjeer,26.2,25.1,waxy,straight,alternate,palmate-lobed
+Anjeer,23.7,22,waxy,straight,alternate,palmate-lobed
+Anjeer,31,29.5,waxy,straight,alternate,palmate-lobed
+Anjeer,27.8,25.9,waxy,straight,alternate,palmate-lobed
+Anjeer,22.5,21,waxy,straight,alternate,palmate-lobed
+tulsi,4.1,2.2,slightly hairy,jagged,opposite,ovate
+tulsi,3.8,2,slightly hairy,jagged,opposite,ovate
+tulsi,4.3,2.1,slightly hairy,jagged,opposite,ovate
+tulsi,3.6,1.9,slightly hairy,jagged,opposite,ovate
+tulsi,4,2.3,slightly hairy,jagged,opposite,ovate
+tulsi,3.9,2.2,slightly hairy,jagged,opposite,ovate
+tulsi,4.5,2.4,slightly hairy,jagged,opposite,ovate
+tulsi,4.2,2.1,slightly hairy,jagged,opposite,ovate
+tulsi,3.7,1.8,slightly hairy,jagged,opposite,ovate
+tulsi,4.4,2,slightly hairy,jagged,opposite,ovate
+tulsi,4,2.2,slightly hairy,jagged,opposite,ovate
+tulsi,3.9,2,slightly hairy,jagged,opposite,ovate
+tulsi,4.3,2.3,slightly hairy,jagged,opposite,ovate
+tulsi,4.1,2.1,slightly hairy,jagged,opposite,ovate
+tulsi,3.8,2.1,slightly hairy,jagged,opposite,ovate
+tulsi,4.2,2.2,slightly hairy,jagged,opposite,ovate
+tulsi,4,2,slightly hairy,jagged,opposite,ovate
+tulsi,3.7,1.9,slightly hairy,jagged,opposite,ovate
+tulsi,4.4,2.3,slightly hairy,jagged,opposite,ovate
+tulsi,3.9,2.1,slightly hairy,jagged,opposite,ovate
+ajvine,3.5,1.8,smooth,jagged,alternate,ovate
+ajvine,3.2,1.7,smooth,jagged,alternate,ovate
+ajvine,3.8,1.9,smooth,jagged,alternate,ovate
+ajvine,3.4,1.6,smooth,jagged,alternate,ovate
+ajvine,3.7,1.8,smooth,jagged,alternate,ovate
+ajvine,3.6,1.7,smooth,jagged,alternate,ovate
+ajvine,3.9,2,smooth,jagged,alternate,ovate
+ajvine,3.3,1.5,smooth,jagged,alternate,ovate
+ajvine,3.6,1.7,smooth,jagged,alternate,ovate
+ajvine,3.8,2,smooth,jagged,alternate,ovate
+ajvine,3.5,1.8,smooth,jagged,alternate,ovate
+ajvine,3.4,1.6,smooth,jagged,alternate,ovate
+ajvine,3.7,1.9,smooth,jagged,alternate,ovate
+ajvine,3.3,1.5,smooth,jagged,alternate,ovate
+ajvine,3.8,1.8,smooth,jagged,alternate,ovate
+ajvine,3.6,1.7,smooth,jagged,alternate,ovate
+ajvine,3.9,2,smooth,jagged,alternate,ovate
+ajvine,3.2,1.6,smooth,jagged,alternate,ovate
+ajvine,3.5,1.7,smooth,jagged,alternate,ovate
+ajvine,3.7,1.8,smooth,jagged,alternate,ovate
+jade plant,4,2.5,fleshy,entire,opposite,obovate
+jade plant,3.7,2.3,fleshy,entire,opposite,obovate
+jade plant,4.2,2.6,fleshy,entire,opposite,obovate
+jade plant,3.9,2.4,fleshy,entire,opposite,obovate
+jade plant,4.1,2.5,fleshy,entire,opposite,obovate
+jade plant,3.8,2.2,fleshy,entire,opposite,obovate
+jade plant,4.3,2.7,fleshy,entire,opposite,obovate
+jade plant,4,2.6,fleshy,entire,opposite,obovate
+jade plant,3.6,2.1,fleshy,entire,opposite,obovate
+jade plant,4.2,2.8,fleshy,entire,opposite,obovate
+jade plant,3.9,2.4,fleshy,entire,opposite,obovate
+jade plant,4.1,2.5,fleshy,entire,opposite,obovate
+jade plant,3.7,2.3,fleshy,entire,opposite,obovate
+jade plant,4,2.6,fleshy,entire,opposite,obovate
+jade plant,3.8,2.2,fleshy,entire,opposite,obovate
+jade plant,4.3,2.7,fleshy,entire,opposite,obovate
+jade plant,4,2.6,fleshy,entire,opposite,obovate
+jade plant,3.6,2.1,fleshy,entire,opposite,obovate
+jade plant,4.2,2.8,fleshy,entire,opposite,obovate
+jade plant,3.9,2.4,fleshy,entire,opposite,obovate
+muleti,8,1.5,smooth,entire,alternate,lanceolate
+muleti,7.6,1.4,smooth,entire,alternate,lanceolate
+muleti,8.3,1.7,smooth,entire,alternate,lanceolate
+muleti,7.9,1.6,smooth,entire,alternate,lanceolate
+muleti,8.1,1.5,smooth,entire,alternate,lanceolate
+muleti,8.2,1.6,smooth,entire,alternate,lanceolate
+muleti,7.8,1.4,smooth,entire,alternate,lanceolate
+muleti,8.4,1.8,smooth,entire,alternate,lanceolate
+muleti,8,1.5,smooth,entire,alternate,lanceolate
+muleti,7.7,1.3,smooth,entire,alternate,lanceolate
+muleti,8.3,1.7,smooth,entire,alternate,lanceolate
+muleti,7.9,1.6,smooth,entire,alternate,lanceolate
+muleti,8.1,1.5,smooth,entire,alternate,lanceolate
+muleti,8.2,1.6,smooth,entire,alternate,lanceolate
+muleti,7.8,1.4,smooth,entire,alternate,lanceolate
+muleti,8.4,1.8,smooth,entire,alternate,lanceolate
+muleti,8,1.5,smooth,entire,alternate,lanceolate
+muleti,7.7,1.3,smooth,entire,alternate,lanceolate
+muleti,8.2,1.6,smooth,entire,alternate,lanceolate
+muleti,7.8,1.4,smooth,entire,alternate,lanceolate
+sarso,7.2,2.2,smooth,jagged,alternate,lanceolate
+sarso,6.8,2,smooth,jagged,alternate,lanceolate
+sarso,7.4,2.3,smooth,jagged,alternate,lanceolate
+sarso,7.1,2.1,smooth,jagged,alternate,lanceolate
+sarso,7.3,2.2,smooth,jagged,alternate,lanceolate
+sarso,6.9,2,smooth,jagged,alternate,lanceolate
+sarso,7.5,2.4,smooth,jagged,alternate,lanceolate
+sarso,7,2.1,smooth,jagged,alternate,lanceolate
+sarso,7.2,2.3,smooth,jagged,alternate,lanceolate
+sarso,6.8,2,smooth,jagged,alternate,lanceolate
+sarso,7.4,2.2,smooth,jagged,alternate,lanceolate
+sarso,7.1,2.1,smooth,jagged,alternate,lanceolate
+sarso,7.3,2.2,smooth,jagged,alternate,lanceolate
+sarso,6.9,2,smooth,jagged,alternate,lanceolate
+sarso,7.5,2.4,smooth,jagged,alternate,lanceolate
+sarso,7,2.1,smooth,jagged,alternate,lanceolate
+sarso,7.2,2.3,smooth,jagged,alternate,lanceolate
+sarso,6.8,2,smooth,jagged,alternate,lanceolate
+sarso,7.4,2.2,smooth,jagged,alternate,lanceolate
+sarso,7.1,2.1,smooth,jagged,alternate,lanceolate
