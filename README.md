@@ -1,1 +1,1 @@
-# DAV-Workshop-Day-1-
+# DAV-Workshop
